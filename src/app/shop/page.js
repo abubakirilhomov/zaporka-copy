@@ -10,4 +10,4 @@ export default page
 
 //ashdnuisauhdisbahuidhasudhsaiuiuhdiahsudiahudia
 
-//asndikabsuidbsaikbldhakslbdia
+//abubakir ozgartirdi
